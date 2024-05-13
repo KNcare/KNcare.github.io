@@ -3,9 +3,9 @@ logo: logo.png
 description: >
   <h3 style="color: #20C3D2;">Empathy in action; solutions in support.</h3>
   Have questions or ready to get started? Reach out to us today:<br><br>
-  <span class="fa-solid fa-location-dot" style="color: #02314d;"></span> Mackay Region, QLD<br>
-  <span class="fa-solid fa-phone-volume" style="color: #02314d;"></span> <a href= "tel:0491578957">0491 578 957</a><br>
-  <span class="fa-solid fa-at" style="color: #02314d;"></span> <a href= "mailto:name@email.com">name@email.com</a>
+  <span class="fa-solid fa-location-dot" style="color: #267CB9;"></span> Mackay Region, QLD<br>
+  <span class="fa-solid fa-phone-volume" style="color: #267CB9;"></span> <a href= "tel:0491578957">0491 578 957</a><br>
+  <span class="fa-solid fa-at" style="color: #267CB9;"></span> <a href= "mailto:name@email.com">name@email.com</a>
 
 github:
   is_project_page: false
