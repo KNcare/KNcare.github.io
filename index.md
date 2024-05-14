@@ -25,5 +25,5 @@ Our mission is to enhance the quality of life for individuals with disabilities 
 * **Empathy:** We approach every interaction with compassion and understanding.
 * **Respect:** We treat everyone with dignity and respect, valuing diversity and individuality.
 * **Integrity:** We uphold the highest standards of honesty, transparency, and ethical conduct.
-* **Collaboration:** We work collaboratively with clients, families, and coordinators to achieve positive outcomes.
+* **Collaboration:** We work together with clients, families, and coordinators to achieve positive outcomes.
 * **Excellence:** We are committed to delivering excellence in care and service provision.
