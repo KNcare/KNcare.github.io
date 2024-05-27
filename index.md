@@ -1,6 +1,6 @@
 ## Our Services
 
-At K & N Care, we offer a range of disability support services designed to meet the unique needs of each individual. Whether you require supported independent living or respite, we are here to support you on your journey towards greater independence and well-being.
+At CNK Care & Support, we offer a range of disability support services designed to meet the unique needs of each individual. Whether you require supported independent living or respite, we are here to support you on your journey towards greater independence and well-being.
 
 ### Respite (Short Term Accommodation)
 
@@ -14,7 +14,7 @@ Our supported independent living services empower individuals with disabilities 
 
 ## About Us
 
-At K & N Care, we believe in empathy in action and solutions in support. As a registered services provider, we are committed to providing high-quality care and empowering individuals with disabilities to live their best lives. Our team consists of dedicated professionals who prioritize the well-being and independence of our clients.
+At CNK Care & Support, we believe in empathy in action and solutions in support. As a registered services provider, we are committed to providing high-quality care and empowering individuals with disabilities to live their best lives. Our team consists of dedicated professionals who prioritize the well-being and independence of our clients.
 
 ### Our Mission
 
